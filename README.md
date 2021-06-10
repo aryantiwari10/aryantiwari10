@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @aryantiwari10
+- 👋 Hello everyone
+- -I am a Second year student, pursuing Bachelor of Technology in Computer Science.
+
 - 👀 I’m interested in data science and machine learning
+-  I'm on track for learning more about Deep Learning, Machine learning and Data Science.
+
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 📫 How to reach me, my email id is aryantiwariindia@gmail.com
 
 <!---
